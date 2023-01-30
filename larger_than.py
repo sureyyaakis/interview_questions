@@ -1,4 +1,14 @@
- # Input:
+"""
+Problem: Compare two strings as numbers!
+You are given two non-negative integers in strings.
+
+Example: "1221" and "123"
+
+Write a function, larger_than(a, b) which returns True if the first number is larger than the second one.
+
+Solve this problem without converting the strings to numbers!
+"""
+# Input:
 #  a: The first non-negative integer in string. Example: "123"
 #  b: The second non-negative integer in string. Example: "3344"
 # Returns:
