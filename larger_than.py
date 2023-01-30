@@ -19,6 +19,7 @@ def larger_than(a,b):
       return True
     else:
       return False
+  return False
 
 
 print('Is "112" larger than "111"? (Should be True.)')
